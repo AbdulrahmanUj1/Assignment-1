@@ -31,7 +31,8 @@
             <h2>Education</h2>
             <ul>
                 <li>Bachelor's Degree in Cybersecurity, University of Jeddah</li>
-                <li>Location: Jeddah, Saudi Arabia</li>
+                <li>Degree: 4.70</li>
+                <li>Started: 2022</li>
                 <li>Expected Graduation: 2026</li>
             </ul>
         </div>
